@@ -1,0 +1,17 @@
+streamlit
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+langchain-text-splitters
+sentence-transformers
+chromadb
+faiss-cpu
+pymupdf
+python-docx
+pandas
+python-dotenv
+requests
+redis
